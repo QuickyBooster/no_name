@@ -1,0 +1,8 @@
+- [ ] [[map]]
+- [ ] [[privilege]]
+- [ ] [[vehicle]]
+- [ ] [[resources]]
+- [ ] [[human resources]]
+- [ ] [[priority]]
+- [ ] [[task]]
+- [ ] [[message channel]]
